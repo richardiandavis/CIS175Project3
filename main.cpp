@@ -1,3 +1,7 @@
+//Name:Rich Davis
+//Date: Sep 7, 2022
+//Project 3
+
 #include <iostream>
 #include <valarray>
 int main() {
